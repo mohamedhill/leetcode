@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohamedhill/leetcode/tree/master/0048-rotate-image) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
 | ------- |
@@ -19,8 +20,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohamedhill/leetcode/tree/master/0020-valid-parentheses) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohamedhill/leetcode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+## Greedy
+|  |
+| ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
