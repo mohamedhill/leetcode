@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohamedhill/leetcode/tree/master/0048-rotate-image) |
+| [1207-unique-number-of-occurrences](https://github.com/mohamedhill/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mohamedhill/leetcode/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/mohamedhill/leetcode/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
