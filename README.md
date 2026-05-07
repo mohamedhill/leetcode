@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mohamedhill/leetcode/tree/master/0048-rotate-image) |
 | [1207-unique-number-of-occurrences](https://github.com/mohamedhill/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/mohamedhill/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/mohamedhill/leetcode/tree/master/1207-unique-number-of-occurrences) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/mohamedhill/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
