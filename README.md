@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mohamedhill/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohamedhill/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mohamedhill/leetcode/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/mohamedhill/leetcode/tree/master/0520-detect-capital) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
