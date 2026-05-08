@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohamedhill/leetcode/tree/master/0048-rotate-image) |
+| [0263-ugly-number](https://github.com/mohamedhill/leetcode/tree/master/0263-ugly-number) |
 ## Matrix
 |  |
 | ------- |
