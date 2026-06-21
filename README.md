@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohamedhill/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/mohamedhill/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohamedhill/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohamedhill/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,8 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mohamedhill/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohamedhill/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohamedhill/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mohamedhill/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/mohamedhill/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
