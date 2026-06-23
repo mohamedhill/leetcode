@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/mohamedhill/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mohamedhill/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
