@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/mohamedhill/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/mohamedhill/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohamedhill/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3838-weighted-word-mapping](https://github.com/mohamedhill/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/mohamedhill/leetcode/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/mohamedhill/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3838-weighted-word-mapping](https://github.com/mohamedhill/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohamedhill/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/mohamedhill/leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
