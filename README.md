@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mohamedhill/leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/mohamedhill/leetcode/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/mohamedhill/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mohamedhill/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mohamedhill/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohamedhill/leetcode/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohamedhill/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohamedhill/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/mohamedhill/leetcode/tree/master/3838-weighted-word-mapping) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohamedhill/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
