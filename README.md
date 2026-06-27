@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/mohamedhill/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mohamedhill/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohamedhill/leetcode/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mohamedhill/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
