@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohamedhill/leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/mohamedhill/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/mohamedhill/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/mohamedhill/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mohamedhill/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/mohamedhill/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohamedhill/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/mohamedhill/leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/mohamedhill/leetcode/tree/master/0263-ugly-number) |
 | [2485-find-the-pivot-integer](https://github.com/mohamedhill/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Matrix
