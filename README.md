@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohamedhill/leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/mohamedhill/leetcode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/mohamedhill/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/mohamedhill/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/mohamedhill/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mohamedhill/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -50,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mohamedhill/leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/mohamedhill/leetcode/tree/master/0392-is-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mohamedhill/leetcode/tree/master/0055-jump-game) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mohamedhill/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohamedhill/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
